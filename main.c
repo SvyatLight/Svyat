@@ -7,4 +7,5 @@ int main (vaid)
 	scanf("%d%d", &a,&b);
 	printf("a + b = %d + % d = ,a,b, a+b");
 	printf("a - b = %d - % d = ,a,b, a-b");
+	printf("a / b = %d / % d = ,a,b, a/b");
 }
